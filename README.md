@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Hi! I’m Atif Khalil Khan — a **Creative Designer & Full Stack Developer** passionate about building **real-world solutions** that combine **design, technology, and usability**. I love turning ideas into projects, whether it’s **creative design, web development, or software solutions**. Currently, I’m working on **a Real Estate CRM for my company** while pursuing a **Diploma in Software Engineering** to strengthen my technical skills. I thrive on learning new technologies, solving problems, and creating tools that make life easier for users. Fast learner, career-driven, and always looking to collaborate on innovative projects.**
 
-- 📫 How to reach me **info.techaurevia@gmail.com**
+- 📫 How to reach me **info.atifkhalilkhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 
-  <a href="https://www.behance.net/aureviacreation" target="_blank">
+  <a href="https://www.behance.net/atifkhalilkhan" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
   </a>
 </p>
